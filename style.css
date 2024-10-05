@@ -165,7 +165,7 @@ body.dark-mode .about p {
     flex: 1 1 200px;
     border-radius: 5px;
     text-align: center;
-    color: #ccc;
+    color: #ffffff;
 }
 
 body.dark-mode .skills .skill {
@@ -195,7 +195,7 @@ body.dark-mode .skills .skill p {
     padding: 20px;
     margin-bottom: 10px;
     border-radius: 5px;
-    color: #ccc;
+    color: #ffffff;
 }
 
 .education .education-item h3 {
